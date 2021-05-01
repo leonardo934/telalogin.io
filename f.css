@@ -54,9 +54,18 @@ padding: 0;
     width: 499px
 }
 
+.bt {
 
+    display: flex;
+flex-direction: row;
+justify-content: center;    
+}
 
-
+.alt {
+    margin-left: 5px;
+    width: 100px;
+    padding: 1px;
+}
 
 #pagina_login{
     display: flex;
