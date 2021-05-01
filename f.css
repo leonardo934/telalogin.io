@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+padding: 0;
+}
+
+
+.pagina_toda{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    margin-bottom: 30px;
+    }
+
+    #catoda {
+        height: 100vh !important;
+        max-height: 100vh;
+        display: flex;
+        flex-direction:row;
+    }
+    
+
+    .centro{
+        display: flex;
+        flex-direction: column;
+        width: 411px;
+        }
+
+
+
+    #cadastro {
+        border: black 2px solid;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 499px;
+        
+    }
+
+    #login {
+        border: black 2px solid;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 499px;
+        
+    }
+
+
+#pagina_cadastro{
+    display: flex;
+    flex-direction: column;
+    width: 499px
+}
+
+
+
+
+
+#pagina_login{
+    display: flex;
+    flex-direction: column;
+    width: 499px
+}
+
+
+.espaco1 {
+    flex: 1;
+
+}
+
+.espaco2{
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#pagina_login {
+    height: 470px;
+    width: 412px;
+
+}
+#pagina_cadastro {
+display:none;
+height: 470px;
+width: 412px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
